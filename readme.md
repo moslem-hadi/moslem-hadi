@@ -8,9 +8,7 @@
 
 - 🔭 I’m currently working on **myself to become a software architect!**
 
-- 🌱 I’m currently learning **software architect.**
-
-- 🤝 I’m looking for help with **finding the perfect position!**
+- 🤝 I'd be glad to help others by **teaching them what I know!**
 
 - 📄 Know about my experiences on my [Linkedin page](https://www.linkedin.com/in/moslem-hadi)
 <br/>
